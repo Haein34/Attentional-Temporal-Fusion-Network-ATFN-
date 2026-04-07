@@ -49,19 +49,9 @@ The `Original` folder contains baseline models and datasets, while the `Backtest
 │
 ├── Backtesting/
 │   ├── backtesting scripts
-│   └── evaluation
-│
-├── Ablation/
 │   ├── ablation studies
-│   └── feature analysis
-│
-├── preprocessing/
-│   └── ESG sentiment extraction
-│
-├── models/
-│   └── ATFN model implementation
-
-
+│   └── evaluation
+└── 
 ---
 
 ## Methodology
