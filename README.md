@@ -63,7 +63,7 @@ The `Original` folder contains baseline models and datasets, while the `Backtest
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 The experimental pipeline follows:
 
