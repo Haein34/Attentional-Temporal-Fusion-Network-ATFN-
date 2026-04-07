@@ -83,14 +83,6 @@ The experimental pipeline follows:
 8. Ablation Study  
 
 ---
-
-## Usage Instructions
-
-## Clone Repository
-```bash
-git clone https://github.com/your-repo/ATFN.git
-cd ATFN
-
 ## Installation
 You need to install four modules or library: numpy, scipy, pandas, os, tensorflow/keras, sklearn, matplotlib
 
@@ -108,3 +100,12 @@ CPU: Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz   2.90 GHz
 RAM: 32.0GB
 
 GPU: NVIDIA GeForce RTX 3070
+
+## Usage Instructions
+
+## Clone Repository
+```bash
+git clone https://github.com/your-repo/ATFN.git
+cd ATFN
+
+
