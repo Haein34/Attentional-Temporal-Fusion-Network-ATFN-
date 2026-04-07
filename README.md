@@ -74,6 +74,8 @@ The experimental pipeline follows:
 8. Ablation Study  
 
 ---
+# Requirements
+
 ## Installation
 You need to install four modules or library: numpy, scipy, pandas, os, tensorflow/keras, sklearn, matplotlib
 
@@ -99,4 +101,10 @@ GPU: NVIDIA GeForce RTX 3070
 git clone https://github.com/your-repo/ATFN.git
 cd ATFN
 
-
+## Citations
+@article{To be continued,
+  title={Enhancing stock prediction through ESG knowledge integration for sustainable investment},
+  author={To be continued},
+  journal={To be continued},
+  year={2026}
+}
