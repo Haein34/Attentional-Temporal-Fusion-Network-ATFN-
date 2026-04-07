@@ -42,23 +42,24 @@ The `Original` folder contains baseline models and datasets, while the `Backtest
 ---
 
 ## Code Structure
+```bash
 ├── Original/
-│ ├── baseline models
-│ └── datasets
+│   ├── baseline models
+│   └── datasets
 │
 ├── Backtesting/
-│ ├── backtesting scripts
-│ └── evaluation
+│   ├── backtesting scripts
+│   └── evaluation
 │
 ├── Ablation/
-│ ├── ablation studies
-│ └── feature analysis
+│   ├── ablation studies
+│   └── feature analysis
 │
 ├── preprocessing/
-│ └── ESG sentiment extraction
+│   └── ESG sentiment extraction
 │
 ├── models/
-│ └── ATFN model implementation
+│   └── ATFN model implementation
 
 
 ---
